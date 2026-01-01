@@ -1,7 +1,7 @@
 ﻿using DevExpress.ExpressApp.Blazor.Components.Models;
-using AvTex.ExpressApp.Blazor.Editors.Renderers;
+using GemTex.ExpressApp.Blazor.Editors.Renderers;
 
-namespace AvTex.ExpressApp.Blazor.Editors.Models;
+namespace GemTex.ExpressApp.Blazor.Editors.Models;
 
 public class StepProgressBarModel : ComponentModelBase
 {
